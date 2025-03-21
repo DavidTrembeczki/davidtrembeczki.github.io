@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    margin: 0;
+    color: #191b24
+}
+
+body{
+    background-color: #f6f8ff;
+}
+
+.container{
+    display: flex;
+    padding: 10px 20px;
+    align-items: center;
+    justify-content: center;
+}
+
+
